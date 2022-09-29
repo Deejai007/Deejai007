@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning 
    ~Data Structures and Algorithms
    ~Frontend Web Development
-
+<hr>
 - 📫 How to reach me ...
 
 <!---
@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<hr>
 -My  interests:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -31,6 +32,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   
 </div>
+<hr>
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=D33Ja1&style=flat-square&color=blue" />
 </div>
