@@ -7,7 +7,7 @@
    ~Data Structures and Algorithms <br>
    ~Frontend Web Development 
 <hr>
-<>br
+<br>
 - 📫 How to reach me ...
 <br>
 <!---
