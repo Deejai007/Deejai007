@@ -3,12 +3,13 @@
 </div>
 
 - 👋 Hi, I’m Deepak Jain aka DeeJai
-- 🌱 I’m currently learning 
-   ~Data Structures and Algorithms
-   ~Frontend Web Development
+- 🌱 I’m currently learning <br>
+   ~Data Structures and Algorithms <br>
+   ~Frontend Web Development 
 <hr>
+<>br
 - 📫 How to reach me ...
-
+<br>
 <!---
 D33Ja1/D33Ja1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <hr>
 -My  interests:
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
