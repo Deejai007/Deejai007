@@ -36,6 +36,12 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 <hr>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Deejai007&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deejai007&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deejai007&layout=compact&theme=cobalt&hide_border=true" />
+
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=D33Ja1&style=flat-square&color=blue" />
 </div>
