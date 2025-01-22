@@ -45,3 +45,10 @@ You can click the Preview link to take a look at your changes.
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=D33Ja1&style=flat-square&color=blue" />
 </div>
+Social Media backend:https://github.com/Deejai007/social-media-backend
+Hospital Website:https://hospital-website-phi.vercel.app/
+BRL (College Society) Website: https://brlakgec.com/
+Google Keep clone:link-https://notes-cloud-d5o6xfijd-deejai007.vercel.app/
+
+E-commerce frontend-https://celadon-concha-bd7936.netlify.app/
+GitHub_id:https://github.com/Deejai007
